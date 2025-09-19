@@ -43,9 +43,5 @@
       <p>Luan Santana tornou-se referência da nova geração do sertanejo, inovando no gênero e inspirando artistas mais jovens. Seu carisma e talento ajudaram a popularizar a música sertaneja pelo mundo.</p>
     </div>
   </main>
-
-  <footer>
-    Projeto desenvolvido por <strong>Vitoria Maria</strong>.
-  </footer>
 </body>
 </html>
